@@ -106,7 +106,7 @@ Este repositório é um **fork e adaptação** de um projeto open source origina
 
 Repositório original:
 - Cloud Security Resources (versão em inglês)
-- Link: https://github.com/<autor-ou-org>/<nome-do-repositorio-original>
+- Link: https://github.com/senaykt/cloud-security-resources
 
 O conteúdo original serviu como base conceitual e estrutural para este trabalho.  
 Todas as descrições foram **traduzidas, revisadas e adaptadas para português**, com ajustes de linguagem para um contexto **técnico, profissional e corporativo**, além da possibilidade de inclusão futura de novos recursos.
